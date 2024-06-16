@@ -31,6 +31,9 @@ Aside from those features I'm particularly proud of, I did a lot of other stuff:
 - Designed and implemented essential frontend components for displaying user data
 - Conducted extensive user interviews with artists and managers / indie labels
 
+# What's next?
+I'm currently exploring new opportunites in the areas of product management, sales, and software.
+
 ## My Tech Skills
 - **Languages:** JavaScript, Python
 - **Frameworks:** React, Node.js, Express, FastAPI, LangChain
