@@ -38,4 +38,4 @@ aside from those features i'm particulary proud of, i did a lot of other stuff:
 - **databases:** PostgreSQL (pg_cron, TimescaleDB)
 - **devops:** Docker, GCP, Vercel, LangSmith
 
-if you're still reading this, you should hire me. and if you're reading this and aren't hiring, email me i guess.
+if you're still reading this, you should hire me. 
