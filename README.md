@@ -5,6 +5,8 @@ I learned how to code so I could create Soundsteer, an AI music management tool 
 
 I was originally an artist and wanted to turn my idea of having an AI manager into a real project.
 
+[Watch demo of Soundsteer](https://youtu.be/pfC65LwEfcc?si=f7cp6LIJ6w7EfJ9P)
+
 # My Work
 I did the entire implementation of the following features.
 
@@ -34,7 +36,7 @@ Aside from those features I'm particularly proud of, I did a lot of other stuff:
 # What's next?
 I'm currently exploring new opportunites in the areas of product management, sales, and software.
 
-## My Tech Skills
+## My tech skills
 - **Languages:** JavaScript, Python
 - **Frameworks:** React, Node.js, Express, FastAPI, LangChain
 - **Databases:** PostgreSQL (pg_cron, TimescaleDB)
