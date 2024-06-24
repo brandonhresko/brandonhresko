@@ -37,9 +37,14 @@ Aside from those features I'm particularly proud of, I did a lot of other stuff:
 I'm currently exploring new opportunites in the areas of product management, sales, and software.
 
 ## My tech skills
-- **Languages:** JavaScript, Python
-- **Frameworks:** React, Node.js, Express, FastAPI, LangChain
-- **Databases:** PostgreSQL (pg_cron, TimescaleDB)
-- **DevOps:** Docker, GCP, Vercel, LangSmith
+- **Languages:** JavaScript, Python, HTML/CSS 
+- **Frameworks:** Node.js, Express, React, FastAPI, LangChain 
+- **Databases/Cloud:** Supabase, Docker, GCP, Vercel, LangSmith
+
+## Non-tech stuff I'm into
+- Music (I listen to a lot of music, but I also used to make music)
+- Film editing and cinematography
+- Jet skiing
+- Baking
 
 If you're still reading this, you should hire me 🫶.
