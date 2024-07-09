@@ -1,5 +1,5 @@
 # Hi! My name is Brandon
-I'm a self-taught full stack developer with a degree in marketing. You can download my resume [here](https://github.com/brandonhresko/brandonhresko/blob/327e2adb072076191908395f35ac18594ebe8b76/2024%20Brandon%20Hresko%20Resume.docx.pdf).
+I'm a self-taught full stack developer with a degree in marketing. You can download my resume [here](https://github.com/brandonhresko/brandonhresko/blob/6d080ae792b041dd65e007c8e28e27cce3740a51/TPM%20Brandon%20Hresko%20Resume.docx.pdf).
 
 I learned how to code so I could create Soundsteer, an AI music management tool for artists and managers.
 
