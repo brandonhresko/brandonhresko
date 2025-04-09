@@ -1,2 +1,2 @@
-# I'm not cracked, I'm ON crack
+# make your own future
 
